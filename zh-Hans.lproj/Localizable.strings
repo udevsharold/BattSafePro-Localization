@@ -1,0 +1,28 @@
+//translated by xiehq
+
+//=====================Notification=====================
+"NOTI_MESSAGE" = "充电停止，已达到 %d%%";
+"NOTI_CHARGE_NOW" = "继续充电";
+
+
+//=====================Preferences=====================
+"TWEAK" = "插件";
+"TWEAK_FOOTER" = "所有设置修改无需注销。";
+"ENABLED" = "开启";
+"SHOW_NOTIFICATION" = "推送通知";
+"SHOW_NOTIFICATION_FOOTER" = "冲电停止到设置的最高电量后通知我。";
+"MAX_CHARGE_LEVEL" = "最高电量";
+"MAX_CHARGE_LEVEL_FOOTER" = "设置最高充电电量 (%)，默认为 80% 。";
+
+"DEVELOPMENT" = "插件开发";
+"SUPPORT" = "支持开发者";
+"CONTACT" = "联系";
+"TWITTER" = "Twitter";
+"REDDIT" = "Reddit";
+"FOOTER_CREATED" = "由 udevs 开发";
+"FOOTER_CREDITS" = "特别感谢\n%@";
+
+"RESPRING" = "注销";
+"RESPRING_MESSAGE" = "无需注销，要继续注销吗？";
+"ANSWER_YES" = "是的";
+"ANSWER_NO" = "算了";

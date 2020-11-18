@@ -1,0 +1,31 @@
+//translated by peterfectionn
+
+//=====================Notification=====================
+"NOTI_MESSAGE" = "لقد تم توقيف الشحن على مستوى %d%%.";
+"NOTI_CHARGE_NOW" = "أشحن الآن";
+
+
+//=====================Preferences=====================
+"TWEAK" = "Tweak";
+"TWEAK_FOOTER" = "ليس من الضروري إعادة تشغيل الـSpringboard بعد التغيير.";
+"ENABLED" = "تشغيل";
+"SHOW_NOTIFICATION" = "تنبيه";
+"SHOW_NOTIFICATION_FOOTER" = "التنبيه عند الوصول إلى مستوى الشحن المحدّد.";
+"MAX_CHARGE_LEVEL" = "أعلى مستوى شحن";
+"MAX_CHARGE_LEVEL_FOOTER" = "قم بتحديد أعلى مستوى للشحن بالمئة (٪؜). الأصلي هو ٨٠٪؜.";
+
+"DEVELOPMENT" = "البرمجة";
+"SUPPORT" = "أدعم البرمجة";
+"CONTACT" = "التواصل";
+"TWITTER" = "تويتر";
+"REDDIT" = "ريدت";
+"FOOTER_CREATED" = "صنعه udevs";
+"FOOTER_CREDITS" = "\n%@شكر خاص لـ ";
+
+"RESPRING" = "إعادة تشغيل الـSpringboard";
+"RESPRING_MESSAGE" = "إعادة تشغيل الـSpringboard ليس ضروري. هل تريد فعله على أي حال؟";
+"ANSWER_YES" = "نعم";
+"ANSWER_NO" = "لا";
+
+"OVERSHOOTING_MESSAGE"="في بعض الحالات قد يتخطّى الشحن المستوى المحدّد بنسبة ١-٢٪؜ وهذا بسبب الطّريقة التي يعتمدها الـ iOS لقرئ مستوى الشحن، فإن هذا المستوى هو ليس دقيق تماماً. على الرغم من ذلك نحن نحاول التخلص من هذه المشكلة.؜";
+"ANSWER_GOT_IT" = "فهمت";
