@@ -52,7 +52,7 @@
 
 "DIAGNOSTIC_BATTSAFEPRO_IN_EFFECT" = "BattSafePro in Effect";
 "DIAGNOSTIC_CHARGING" = "Battery Currently Charging";
-"DIAGNOSTIC_CHARGING_DESCRIPTION" = "Status update by system will take handy of seconds, keep refreshing.";
+"DIAGNOSTIC_CHARGING_DESCRIPTION" = "Status update by system will take handful of seconds, keep refreshing.";
 "DIAGNOSTIC_CHARGING_PROHIBITED" = "Battery Charging Prohibited";
 "DIAGNOSTIC_EXTERNAL" = "External Source Connected";
 "DIAGNOSTIC_EXTERNAL_CAPABLE" = "External Source Capable of Charging";
