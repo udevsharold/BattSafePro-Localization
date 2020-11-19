@@ -9,7 +9,7 @@
 "TWEAK" = "Tweak";
 "TWEAK_FOOTER" = "Není nutný respring pro všechny změny nastavení";
 "ENABLED" = "Zapnuto";
-"SHOW_NOTIFICATION" = "Oznámení;
+"SHOW_NOTIFICATION" = "Oznámení";
 "SHOW_NOTIFICATION_FOOTER" = "Oznámit při dosáhnutí maximální úrovně nabití";
 "NOTIFY_SILENTLY" = "Doručovat potichu";
 "NOTIFY_SILENTLY_FOOTER" = "Oznámit bez zapnutí obrazovky";
