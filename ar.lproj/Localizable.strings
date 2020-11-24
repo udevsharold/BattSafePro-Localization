@@ -11,7 +11,7 @@
 "DIAGNOSTIC_BUTTON_CLOSE"="إغلاق";
 "DIAGNOSTIC_BUTTON_REFRESH"="إعادة التجديد";
 "DIAGNOSTIC_CHARGING"="البطارية تشحن حاليًا";
-"DIAGNOSTIC_CHARGING_DESCRIPTION"="Status update by system will take handful of seconds, keep refreshing.تجديد الحالة سيأخذ بضعة ثوانٍ. تابع المحاولة.";
+"DIAGNOSTIC_CHARGING_DESCRIPTION"=".تجديد الحالة سيأخذ بضعة ثوانٍ. تابع المحاولة.";
 "DIAGNOSTIC_CHARGING_PROHIBITED"="شخن البطارية ممنوع";
 "DIAGNOSTIC_DESCRIPTION"="تلخيص عن حالة النظام\n\nإذا كنت تواجه صعوبات عليك بالReboot وإعادة تشغيل الJailbreak بدلًا من الuserspace reboot\/ldrestart";
 "DIAGNOSTIC_EXTERNAL"="الشاحن الخارجي موصول";
