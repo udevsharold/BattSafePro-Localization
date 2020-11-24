@@ -1,66 +1,45 @@
 //translated by peterfectionn
-
-//=====================Notification=====================
-"NOTI_MESSAGE" = "لقد تم توقيف الشحن على مستوى %d%%.";
-"NOTI_CHARGE_NOW" = "أشحن الآن";
-
-
-//=====================Preferences=====================
-"TWEAK" = "Tweak";
-"TWEAK_FOOTER" = "ليس من الضروري إعادة تشغيل الـSpringboard بعد التغيير.";
-"ENABLED" = "تشغيل";
-"SHOW_NOTIFICATION" = "تنبيه";
-"SHOW_NOTIFICATION_FOOTER" = "التنبيه عند الوصول إلى مستوى الشحن المحدّد.";
-"NOTIFY_SILENTLY" = "Deliver Quietly";
-"NOTIFY_SILENTLY_FOOTER" = "Notify without waking up the screen.";
-"MAX_CHARGE_LEVEL" = "أعلى مستوى شحن";
-"MAX_CHARGE_LEVEL_FOOTER" = "قم بتحديد أعلى مستوى للشحن بالمئة (٪؜). الأصلي هو ٨٠٪؜.";
-
-"DEVELOPMENT" = "البرمجة";
-"SUPPORT" = "أدعم البرمجة";
-"CONTACT" = "التواصل";
-"TWITTER" = "تويتر";
-"REDDIT" = "ريدت";
-"FOOTER_CREATED" = "صنعه udevs";
-"FOOTER_CREDITS" = "\n%@شكر خاص لـ ";
-
-"RESPRING" = "إعادة تشغيل الـSpringboard";
-"RESPRING_MESSAGE" = "إعادة تشغيل الـSpringboard ليس ضروري. هل تريد فعله على أي حال؟";
-"ANSWER_YES" = "نعم";
-"ANSWER_NO" = "لا";
-
-"OVERSHOOTING_MESSAGE"="في بعض الحالات قد يتخطّى الشحن المستوى المحدّد بنسبة ١-٢٪؜ وهذا بسبب الطّريقة التي يعتمدها الـ iOS لقرئ مستوى الشحن، فإن هذا المستوى هو ليس دقيق تماماً. على الرغم من ذلك نحن نحاول التخلص من هذه المشكلة.؜";
-"ANSWER_GOT_IT" = "فهمت";
-
-"WELCOME_DESCRIPTION" = "Prolong your battery life";
-
-"ONBOARDING_SCREEN_SHOW" = "Show Onboarding Screen";
-"ONBOARDING_ALERT_SHOW" = "Show Onboarding Alert";
-
-"OVERSHOOTING_HEADER" = "Overshooting";
-"OVERSHOOTING_MESSAGE" = "Sometimes you'll notice that the charged percentage overshoot by around 1-2% more than the preferred max charge level and that's perfectly normal. iOS occasionally decides not to update the percentage until the next cycle, especially when the device is in very deep sleep. Moreover, the percentage that shows is just an estimation by iOS itself and is not absolute accurate numerically. However, BattSafePro has already trying its best in intelligently mitigating this.";
-"ANSWER_GOT_IT" = "Got it";
-
-"WELCOME_DESCRIPTION" = "Prolong your battery life";
-
-"OPTIMIZED_CHARGING_HEADER" = "Optimized Charging";
-"OPTIMIZED_CHARGING_MESSAGE" = "It's highly recommended to disable Apple's optimized charging for best experience.";
-
-"ACTIVATOR_SUPPORT_HEADER" = "Activator Support";
-"ACTIVATOR_SUPPORT_MESSAGE" = "Activator is supported by BattSafePro. Get it for more personal customizations.";
-
-//Diagnostic Screen
-"DIAGNOSTIC_SCREEN_SHOW" = "Show Diagnostic Screen";
-"DIAGNOSTIC_ALERT_SHOW" = "Show Diagnostic Alert";
-"DIAGNOSTIC_TITLE" = "Diagnostic Info";
-"DIAGNOSTIC_DESCRIPTION" = "Overview of Current System Status\n\nIf you experiencing any issue, reboot and rejailbreak instead of userspace reboot/ldrestart.";
-
-"DIAGNOSTIC_BATTSAFEPRO_IN_EFFECT" = "BattSafePro in Effect";
-"DIAGNOSTIC_CHARGING" = "Battery Currently Charging";
-"DIAGNOSTIC_CHARGING_DESCRIPTION" = "Status update by system will take handful of seconds, keep refreshing.";
-"DIAGNOSTIC_CHARGING_PROHIBITED" = "Battery Charging Prohibited";
-"DIAGNOSTIC_EXTERNAL" = "External Source Connected";
-"DIAGNOSTIC_EXTERNAL_CAPABLE" = "External Source Capable of Charging";
-
-"DIAGNOSTIC_BUTTON_REFRESH" = "Refresh";
-"DIAGNOSTIC_BUTTON_CLOSE" = "Close";
+"ACTIVATOR_SUPPORT_HEADER"="العمل مع Activator";
+"ACTIVATOR_SUPPORT_MESSAGE"="Activator يشتغل مع BattSafePro. يمكنكم تنزيله للمزيد من طرق العمل";
+"ANSWER_GOT_IT"="فهمت";
+"ANSWER_NO"="لا";
+"ANSWER_YES"="نعم";
+"CONTACT"="التواصل";
+"DEVELOPMENT"="البرمجة";
+"DIAGNOSTIC_ALERT_SHOW"="تبيين إنذار التشخيص";
+"DIAGNOSTIC_BATTSAFEPRO_IN_EFFECT"="BattSafePro يعمل.";
+"DIAGNOSTIC_BUTTON_CLOSE"="إغلاق";
+"DIAGNOSTIC_BUTTON_REFRESH"="إعادة التجديد";
+"DIAGNOSTIC_CHARGING"="البطارية تشحن حاليًا";
+"DIAGNOSTIC_CHARGING_DESCRIPTION"="Status update by system will take handful of seconds, keep refreshing.تجديد الحالة سيأخذ بضعة ثوانٍ. تابع المحاولة.";
+"DIAGNOSTIC_CHARGING_PROHIBITED"="شخن البطارية ممنوع";
+"DIAGNOSTIC_DESCRIPTION"="تلخيص عن حالة النظام\n\nإذا كنت تواجه صعوبات عليك بالReboot وإعادة تشغيل الJailbreak بدلًا من الuserspace reboot\/ldrestart";
+"DIAGNOSTIC_EXTERNAL"="الشاحن الخارجي موصول";
+"DIAGNOSTIC_EXTERNAL_CAPABLE"="مصدر خارجي قادر على الشحن";
+"DIAGNOSTIC_SCREEN_SHOW"="تبيين شاشة التشخيص";
+"DIAGNOSTIC_TITLE"="معلومات حول التشخيص";
+"ENABLED"="تشغيل";
+"FOOTER_CREATED"="صنعه udevs";
+"FOOTER_CREDITS"="\n%@شكر خاص لـ ";
+"MAX_CHARGE_LEVEL"="أعلى مستوى شحن";
+"MAX_CHARGE_LEVEL_FOOTER"="قم بتحديد أعلى مستوى للشحن بالمئة (٪؜). الأصلي هو ٨٠٪؜.";
+"NOTIFY_SILENTLY"="إظهار بشكل صامت";
+"NOTIFY_SILENTLY_FOOTER"="إظهار دون تشغيل الشاشة";
+"NOTI_CHARGE_NOW"="أشحن الآن";
+"NOTI_MESSAGE"="لقد تم توقيف الشحن على مستوى %d%%.";
+"ONBOARDING_ALERT_SHOW"="تبيين إنذار الدخول";
+"ONBOARDING_SCREEN_SHOW"="تبيين شاشة الدخول";
+"OPTIMIZED_CHARGING_HEADER"="الشحن بشكل محسّن";
+"OPTIMIZED_CHARGING_MESSAGE"="من الأفضل إطفاء  خاصية الشحن المحسن الخاصة بآبل.";
+"OVERSHOOTING_HEADER"="التجاوز";
+"OVERSHOOTING_MESSAGE"="في بعض الحالات قد يتخطى الشحن المستوى المحدد بنسبة ١-٢٪؜ وهذا بسبب الطريقة التي يعتمدها الـiOS لقرئ مستوى الشحن، فإن هذا المستوى هو ليس دقيق تماماً. على الرغم من ذلك ‏نحن نحاول التخلص من هذه المشكلة.";
+"REDDIT"="ريدت";
+"RESPRING"="إعادة تشغيل الـSpringboard";
+"RESPRING_MESSAGE"="إعادة تشغيل الـSpringboard ليس ضروري. هل تريد فعله على أي حال؟";
+"SHOW_NOTIFICATION"="تنبيه";
+"SHOW_NOTIFICATION_FOOTER"="التنبيه عند الوصول إلى مستوى الشحن المحدّد.";
+"SUPPORT"="أدعم البرمجة";
+"TWEAK"="Tweak";
+"TWEAK_FOOTER"="ليس من الضروري إعادة تشغيل الـSpringboard بعد التغيير.";
+"TWITTER"="تويتر";
+"WELCOME_DESCRIPTION"="طوّل حياة بطاريتك";
