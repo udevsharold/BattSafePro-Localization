@@ -11,6 +11,10 @@
 "ENABLED" = "开启";
 "SHOW_NOTIFICATION" = "推送通知";
 "SHOW_NOTIFICATION_FOOTER" = "充电到设置的最高电量后通知我。";
+"NOTIFICATION_STYLE" = "Notification Style";
+"NOTIFICATION_STYLE_DEFAULT" = "Default";
+"NOTIFICATION_STYLE_COMPACT" = "Compact";
+"NOTIFICATION_STYLE_FOOTER" = "Set notification style.";
 "NOTIFY_SILENTLY" = "静默通知";
 "NOTIFY_SILENTLY_FOOTER" = "在不唤醒屏幕的情况下进行通知。";
 "NOTIFY_WITH_TONE" = "提示音";
