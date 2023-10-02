@@ -31,9 +31,9 @@
 "FOOTER_CREDITS" = "特别感謝\n%@";
 
 "RESPRING" = "重新啟動主畫面";
-"RESPRING_MESSAGE" = "無需重新啟動主畫面，要继续注销吗？";
-"ANSWER_YES" = "是歐甘我屁事";
-"ANSWER_NO" = "隨便";
+"RESPRING_MESSAGE" = "無需重新啟動主畫面，是否繼續？";
+"ANSWER_YES" = "確認";
+"ANSWER_NO" = "取消";
 
 "ONBOARDING_SCREEN_SHOW" = "顯示充電詳情";
 "ONBOARDING_ALERT_SHOW" = "顯示充電過度警告";
