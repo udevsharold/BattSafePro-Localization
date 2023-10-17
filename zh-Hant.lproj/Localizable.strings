@@ -22,8 +22,8 @@
 "MAX_CHARGE_LEVEL" = "最高電量";
 "MAX_CHARGE_LEVEL_FOOTER" = "設定最高充電電量(%)，預設為80% 。";
 
-"DEVELOPMENT" = "外掛開發";
-"SUPPORT" = "支持";
+"DEVELOPMENT" = "開發";
+"SUPPORT" = "支持開發者";
 "CONTACT" = "聯絡";
 "TWITTER" = "X (Twitter)";
 "REDDIT" = "Reddit";
