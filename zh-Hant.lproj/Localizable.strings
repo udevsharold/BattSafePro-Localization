@@ -32,8 +32,8 @@
 
 "RESPRING" = "重新啟動主畫面";
 "RESPRING_MESSAGE" = "無需重新啟動主畫面，要繼續嗎？";
-"ANSWER_YES" = "是歐甘我屁事";
-"ANSWER_NO" = "隨便";
+"ANSWER_YES" = "是";
+"ANSWER_NO" = "否";
 
 "ONBOARDING_SCREEN_SHOW" = "顯示充電詳情";
 "ONBOARDING_ALERT_SHOW" = "顯示充電過度警告";
